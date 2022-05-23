@@ -1,3 +1,3 @@
 # CECS-2222-22-SP-22-Assignments
-Assignments given during the trimester of Spring 2022 in my sophomore year
-To view projects go to corresponding branch
+Proyect that input from a team leader to calculate hours, bonus and pay.
+Oriented on classes and inheritance
